@@ -134,7 +134,7 @@ namespace SuperAdventure
 
         private void SuperAdventure_Load(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+           
         }
 
         #endregion
